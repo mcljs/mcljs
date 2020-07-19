@@ -12,7 +12,7 @@
 
 # Contact Page
 
-- 💻 [Blog personal - projects - tools](https://michael-chacon.netlify.app/)
+- 💻 [ Blog personal - projects - tools](https://michael-chacon.netlify.app/)
 
 <!--
 **mcljs/mcljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
