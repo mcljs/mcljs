@@ -10,7 +10,7 @@
 </p>
 
 
-# Contact Page
+# Contact Page:
 
 - 💻 [ Blog personal - projects - tools](https://michael-chacon.netlify.app/)
 
