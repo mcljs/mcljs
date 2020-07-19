@@ -1,4 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Michael, React developer from <img src="https://image.flaticon.com/icons/svg/197/197580.svg" width="13"/> <b>Caracas, Venezuela</b>.
+<h3>Things I code with</h3>
+<p> <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" /> <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-7d0b7b?style=flat-square&logo=gatsby" /> <img alt="Hugo" src="https://img.shields.io/badge/-Hugo-092036?style=flat-square&logo=hugo" /> 
 <!--
 **mcljs/mcljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
