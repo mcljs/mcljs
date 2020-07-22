@@ -7,7 +7,7 @@
   
   <h3>Where to find me:</h3>
 <p><a href="https://github.com/mcljs" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mcljs15" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mcljs/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/mcljs" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.freecodecamp.org/mcljs" target="_blank"><img alt="Freecodecamp" src="https://img.shields.io/badge/freecodecamp-%23007735.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
+  <a href="https://www.freecodecamp.org/mcljs" target="_blank"><img alt="Freecodecamp" src="https://img.shields.io/badge/freecodecamp-%23007735.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"/></a>
 </p>
 
 
